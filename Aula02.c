@@ -10,6 +10,8 @@
 
 04. Criar TAD Stack
 
+Para ter um TAD precisa de:
+interface, cliente, implementação
 **/
 
 int * values;
